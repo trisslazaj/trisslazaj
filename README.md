@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Triss Lazaj! 👋
 
-<!--
-**trisslazaj/trisslazaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Third-year Computer Science Student @ Queen’s University
+- 💻 Software Engineer passionate about Machine Learning, Web Development, and Data Visualization
+- 🚀 Currently refining **HopOn-Aux** and building an **NFL Statistic Model**
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: Python, Java, JavaScript, C++, C
+- **Frameworks**: Flask, TensorFlow, Scikit-learn, React
+- **Tools**: Git, Redis, Docker, AWS, Spotify SDK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [HopOn-Aux](https://github.com/chsky1600/hopon-aux)  
+  A collaborative playlist web app using Flask, Redis, and Spotify SDK.
+
+- [NFL Statistic Model](https://github.com/trisslazaj/NFL-Stats-Model)  
+  A machine learning model to predict NFL player and team performance.
+
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/trisslazaj/)  
+- [Email](mailto:triss.lazaj@gmail.com)

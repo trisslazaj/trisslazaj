@@ -1,9 +1,9 @@
-# Hi, I'm Triss Lazaj! 👋
+# Hi, I'm Triss Lazaj!
 
 ## About Me
-- 🎓 Third-year Computer Science Student @ Queen’s University
-- 💻 Software Engineer passionate about Machine Learning, Web Development, and Data Visualization
-- 🚀 Currently refining **HopOn-Aux** and building an **NFL Statistic Model**
+- Third-year Computer Science Student @ Queen’s University
+- Software Engineer passionate about Machine Learning, Web Development, and Data Visualization
+- Currently refining **HopOn-Aux** and building an **NFL Statistic Model**
 
 ## Skills
 - **Languages**: Python, Java, JavaScript, C++, C

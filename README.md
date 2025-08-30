@@ -7,14 +7,14 @@
 ## Skills
 - **Languages**: Python, Java, JavaScript, C++, C
 - **Frameworks**: Flask, TensorFlow, Scikit-learn, React
-- **Tools**: Git, Redis, Docker, AWS, Spotify SDK
+- **Tools**: Git, Redis, Docker, AWS, Datadog
 
 ## Featured Projects
 - [HopOn-Aux](https://github.com/chsky1600/hopon-aux)  
   A collaborative playlist web app using Flask, Redis, and Spotify SDK.
 
-- [NFL Statistic Model](https://github.com/trisslazaj/NFL-Stats-Model)  
-  A machine learning model to predict NFL player and team performance.
+- [Fractal Visualizer](https://github.com/trisslazaj/Fractal_Visualizer)  
+  A dynamic fractal visualization tool using C++, OpenGL, and MyGui.
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/trisslazaj/)  

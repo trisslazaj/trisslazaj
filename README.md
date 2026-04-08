@@ -5,7 +5,7 @@
 - Software Engineer passionate about Machine Learning, Web Development, and Data Visualization
 
 ## Skills
-- **Languages**: Python, Java, JavaScript, C++, C
+- **Languages**: Python, Java, TypeScript, C++, C
 - **Frameworks**: Flask, TensorFlow, Scikit-learn, React
 - **Tools**: Git, Redis, Docker, AWS, Datadog
 

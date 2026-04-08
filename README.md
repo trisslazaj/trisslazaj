@@ -1,8 +1,6 @@
 # Hi, I'm Triss Lazaj!
 
-## About Me
-- Computing Student @ Queen's University | Currently SWE intern at WellnessLiving
-- Software Engineer passionate about Machine Learning, Web Development, and Data Visualization
+Computing Student @ Queen's University | Currently SWE intern at WellnessLiving
 
 ## Skills
 - **Languages**: Python, Java, TypeScript, C++, C

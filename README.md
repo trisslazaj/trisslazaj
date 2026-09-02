@@ -1,5 +1,5 @@
 # Hi, I'm Triss Lazaj!
-computing @ Queen's · swe intern @ WellnessLiving · incoming AI research @ MuLab
+computing @ Queen's · swe intern @ WellnessLiving · AI research @ MuLab
 
 ## Skills
 - **Languages**: TypeScript, Go, Python, C++, Java

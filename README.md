@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/trisslazaj/couloir">
-    <img src="couloir-zoom.gif" width="320" alt="A deep zoom into the fractal boundary between neural networks that train and ones that blow up, from width 1 down to 1e-80">
-  </a>
-  <br>
-  <sub>Every pixel is a full neural-network training run. Zooming from width 1 to 1e-80 with <a href="https://github.com/trisslazaj/couloir">couloir</a>.</sub>
-</p>
-
 # Hi, I'm Triss
 
 Computing @ Queen's (graduating April 2027) · SWE intern @ WellnessLiving · AI research @ MuLab

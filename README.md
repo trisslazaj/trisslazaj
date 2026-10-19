@@ -2,7 +2,7 @@
 
 Computing @ Queen's (graduating April 2027) · SWE intern @ WellnessLiving · AI research @ MuLab
 
-I build backends and full-stack products. Lately I've also been writing GPU code that keeps doing math well past where floating point gives up.
+I build backends and full-stack products. Lately I've also been writing GPU code and been interested in performance work.
 
 ## Featured projects
 

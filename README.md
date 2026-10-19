@@ -1,32 +1,32 @@
-# Hi, I'm Triss Lazaj!
-computing @ Queen's · swe intern @ WellnessLiving · AI research @ MuLab
+<p align="center">
+  <a href="https://github.com/trisslazaj/couloir">
+    <img src="couloir-zoom.gif" width="320" alt="A deep zoom into the fractal boundary between neural networks that train and ones that blow up, from width 1 down to 1e-80">
+  </a>
+  <br>
+  <sub>Every pixel is a full neural-network training run. Zooming from width 1 to 1e-80 with <a href="https://github.com/trisslazaj/couloir">couloir</a>.</sub>
+</p>
 
-## Skills
-- **Languages**: TypeScript, Go, Python, C++, Java
-- **Frameworks**: Next.js, React, Node.js, Fastify, Prisma
-- **Databases**: PostgreSQL, Redis, Amazon Redshift
-- **Tools**: Git, Docker, AWS, Datadog
+# Hi, I'm Triss
 
-## Featured Projects
-- **[NextSave](https://nextsave.gg)** *(live)*  
-  A full-stack Steam achievement planner with a node-based visual route planner for
-  mapping achievement dependencies. Built with Next.js, Fastify, Prisma, and PostgreSQL.
+Computing @ Queen's (graduating April 2027) · SWE intern @ WellnessLiving · AI research @ MuLab
 
-- **[pick6](https://github.com/trisslazaj/pick6)**  
-  A terminal fantasy draft assistant that live-syncs a Sleeper draft and ranks positions
-  by a probabilistic model of who survives to your next pick, calibrated against real
-  draft data. Built in Go with Bubble Tea.
+I build backends and full-stack products. Lately I've also been writing GPU code that keeps doing math well past where floating point gives up.
 
-- **[Fractal Visualizer](https://github.com/trisslazaj/Fractal_Visualizer)**  
-  A modern, interactive fractal visualization tool built with C++, OpenGL, and Dear ImGui.
-  Explore the Mandelbrot set with real-time colour controls, smooth zooming, and a
-  beautiful dark interface.
+## Featured projects
 
-## What I'm Building Now
-- **[slosh](https://github.com/trisslazaj/slosh)**  
-  A real-time smoothed-particle-hydrodynamics fluid simulation in C++. I'm building it
-  to learn performance engineering from the ground up.
+**[couloir](https://github.com/trisslazaj/couloir)** · C++20, CUDA, Metal\
+A deep-zoom renderer for the fractal edge between neural networks that train and ones that blow up. It borrows the perturbation trick behind Mandelbrot deep zooms to reach 10<sup>137</sup>x, where plain 64-bit math stops near 10<sup>14</sup>x. One GPU runs 3.1M tiny training runs per second.
 
-## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/trisslazaj/)
-- [Email](mailto:triss.lazaj@gmail.com)
+**[Nextsave](https://nextsave.gg)** · Next.js, Fastify, Prisma, PostgreSQL · *live* · [architecture write-up](https://github.com/trisslazaj/nextsave-showcase)\
+A Steam achievement planner with a drag-and-drop dependency graph. Steam allows 100,000 API calls a day, so shared game data is cached until it costs almost nothing, and the saved budget pays for live, once-a-minute achievement tracking.
+
+**[pick6](https://github.com/trisslazaj/pick6)** · Go, Bubble Tea\
+A terminal draft assistant that live-syncs a Sleeper fantasy draft. After every pick it runs 500 Monte Carlo simulations of the opponents' picks to estimate who will still be there at your next turn. Calibrated by backtesting on real drafts.
+
+## Stack
+
+TypeScript · Python · Go · C++ · CUDA · Java\
+Next.js · React · Node.js · Fastify · Prisma · PostgreSQL · Redis\
+Docker · AWS · Datadog · Claude Code
+
+[LinkedIn](https://www.linkedin.com/in/trisslazaj/) · [Email](mailto:triss.lazaj@gmail.com)
